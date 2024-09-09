@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import filedialog
 import uuid  # Import the uuid module
 
-# Define the custom 57-color palette
+# Define the custom 64-color palette
 custom_palette = [
 
     # Outside
